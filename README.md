@@ -1,4 +1,4 @@
-# WindowsService
+# Windows service
 
 Based on: https://stackoverflow.com/a/7764451/980530
 
